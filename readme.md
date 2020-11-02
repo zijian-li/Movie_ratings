@@ -5,4 +5,4 @@ The final deliverables are:
 * datafolio: https://github.com/zijian-li/Movie_ratings/blob/main/Datafolio.pdf
 
 
-This is a project for 2020 Citadel Datathon competition.
+This is a project for the 2020 Citadel Datathon competition.
